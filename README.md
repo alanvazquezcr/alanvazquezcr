@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Alan Vázquez
 
-<!--
-**alanvazquezcr/alanvazquezcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Aquí comparto proyectos personales, prácticas académicas y experimentos de desarrollo enfocados en full-stack.
 
-Here are some ideas to get you started:
+## Sobre mí
+- Estudiante de Ingeniería en Sistemas Computacionales
+- Apasionado por el desarrollo de software y la lógica de programación
+- Actualmente aprendiendo sobre arquitectura de software y despliegue en la nube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- Lenguajes: C#, Java, , JavaScript, SQL
+- Backend: ASP.NET Core, REST APIs
+- Bases de datos: SQL Server, PostgreSQL
+
+## Objetivo profesional
+
+Seguir creciendo como desarrollador backend, fortaleciendo mis habilidades en arquitectura de software, buenas prácticas y despliegue de aplicaciones en entornos reales.
+
+## Contacto
+- GitHub: https://github.com/alanvazquezcr/
+- Email: alanvazquezcr@gmail.com
