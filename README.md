@@ -8,7 +8,8 @@ Bienvenido a mi perfil de GitHub. Aquí comparto proyectos personales, práctica
 - Actualmente aprendiendo sobre arquitectura de software y despliegue en la nube
 
 ## Tecnologías
-- Lenguajes: C#, Java, , JavaScript, SQL
+- Lenguajes: C#, Java, , JavaScript, Python, SQL
+- FrontEnd: HTML, CSS, React
 - Backend: Spring Boot, REST APIs
 - Bases de datos: MySQL, PostgreSQL
 
