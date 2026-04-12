@@ -9,8 +9,8 @@ Bienvenido a mi perfil de GitHub. Aquí comparto proyectos personales, práctica
 
 ## Tecnologías
 - Lenguajes: C#, Java, , JavaScript, SQL
-- Backend: ASP.NET Core, REST APIs
-- Bases de datos: SQL Server, PostgreSQL
+- Backend: Spring Boot, REST APIs
+- Bases de datos: MySQL, PostgreSQL
 
 ## Objetivo profesional
 
